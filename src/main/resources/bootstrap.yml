@@ -1,0 +1,7 @@
+#spring:
+#  application:
+#    name: yeshaya-app
+#
+#directories:
+#  from: /Users/yeshaya/IdeaProjects/youtube/spring-integration/src/main/resources/from/
+#  to: /Users/yeshaya/IdeaProjects/youtube/spring-integration/src/main/resources/to/
